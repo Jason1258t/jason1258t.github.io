@@ -1,5 +1,10 @@
 User-agent: *
 Allow: /
 Disallow: /admin/
+Disallow: /private/
 
-Sitemap: https://yourdomain.com/sitemap.xml
+# GitHub Pages specific
+User-agent: GPTBot
+Allow: /
+
+Sitemap: https://jason1258t.github.io/news/sitemap.xml
