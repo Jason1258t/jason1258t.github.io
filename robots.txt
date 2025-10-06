@@ -7,4 +7,4 @@ Disallow: /private/
 User-agent: GPTBot
 Allow: /
 
-Sitemap: https://jason1258t.github.io/news/sitemap.xml
+Sitemap: https://jason1258t.github.io/sitemap.xml
